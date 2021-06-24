@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="obj" />
+      <Folder Include="obj\Debug\netcoreapp3.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="BalanceVerificator\**" />
+      <Compile Remove="BalanceVerificatorLib.Tests\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="BalanceVerificator\**" />
+      <EmbeddedResource Remove="BalanceVerificatorLib.Tests\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="BalanceVerificator\**" />
+      <None Remove="BalanceVerificatorLib.Tests\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="BalanceVerificatorLib\BalanceVerificatorLib.csproj" />
+    </ItemGroup>
+
+</Project>

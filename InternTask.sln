@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternTask", "InternTask.csproj", "{65616833-0710-4735-B561-CC77104B62B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceVerificatorLib", "BalanceVerificatorLib\BalanceVerificatorLib.csproj", "{7B05D435-1FBC-4941-BE9E-F3342230AD23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceVerificatorLib.Tests", "BalanceVerificatorLib.Tests\BalanceVerificatorLib.Tests.csproj", "{CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65616833-0710-4735-B561-CC77104B62B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65616833-0710-4735-B561-CC77104B62B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65616833-0710-4735-B561-CC77104B62B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65616833-0710-4735-B561-CC77104B62B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B05D435-1FBC-4941-BE9E-F3342230AD23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B05D435-1FBC-4941-BE9E-F3342230AD23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B05D435-1FBC-4941-BE9E-F3342230AD23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B05D435-1FBC-4941-BE9E-F3342230AD23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

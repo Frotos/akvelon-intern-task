@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2c3c9d6d_002D00a3_002D47e9_002D89f9_002D99a754a5f61c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Verify_Balanced_Minus1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A::.NETCoreApp,Version=v3.1::BalanceVerificatorLib.Tests.BalanceVerificatorTests.Verify_Balanced_Minus1&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A::.NETCoreApp,Version=v3.1::BalanceVerificatorLib.Tests.BalanceVerificatorTests.Verify_Balanced2_Minus1&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A::.NETCoreApp,Version=v3.1::BalanceVerificatorLib.Tests.BalanceVerificatorTests.Verify_NotBalanced_8&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A::.NETCoreApp,Version=v3.1::BalanceVerificatorLib.Tests.BalanceVerificatorTests.Verify_UnsupportedSymbol_Exception&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A::.NETCoreApp,Version=v3.1::BalanceVerificatorLib.Tests.BalanceVerificatorTests.Verify_NotBalanced_6&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::CDF50CF2-6A99-440C-9BA9-B18D4CEF0A0A::.NETCoreApp,Version=v3.1::BalanceVerificatorLib.Tests.BalanceVerificatorTests.Verify_Balanced3_Minus1&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

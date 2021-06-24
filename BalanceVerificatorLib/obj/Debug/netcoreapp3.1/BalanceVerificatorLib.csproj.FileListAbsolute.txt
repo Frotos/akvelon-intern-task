@@ -1,0 +1,7 @@
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/bin/Debug/netcoreapp3.1/BalanceVerificatorLib.deps.json
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/bin/Debug/netcoreapp3.1/BalanceVerificatorLib.dll
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/bin/Debug/netcoreapp3.1/BalanceVerificatorLib.pdb
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/obj/Debug/netcoreapp3.1/BalanceVerificatorLib.csprojAssemblyReference.cache
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/obj/Debug/netcoreapp3.1/BalanceVerificatorLib.csproj.CoreCompileInputs.cache
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/obj/Debug/netcoreapp3.1/BalanceVerificatorLib.dll
+/home/frotos/Documents/Projects/InternTask/BalanceVerificatorLib/obj/Debug/netcoreapp3.1/BalanceVerificatorLib.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WfobYXlYjQysfZhCx5lqDr2eKfK0LpkWybmWMqZdlSEg5SdmzwEdTW5/YCArzk1lEeOBdHm/CgqKmAT983RVLA==",
+  "success": true,
+  "projectFilePath": "/home/frotos/Documents/Projects/InternTask/InternTask.csproj",
+  "expectedPackageFiles": [
+    "/home/frotos/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.15/microsoft.netcore.app.host.linux-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

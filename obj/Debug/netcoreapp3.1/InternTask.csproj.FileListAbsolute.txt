@@ -1,0 +1,14 @@
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/InternTask
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/InternTask.deps.json
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/InternTask.runtimeconfig.json
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/InternTask.runtimeconfig.dev.json
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/InternTask.dll
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/InternTask.pdb
+/home/frotos/Documents/Projects/InternTask/obj/Debug/netcoreapp3.1/InternTask.csprojAssemblyReference.cache
+/home/frotos/Documents/Projects/InternTask/obj/Debug/netcoreapp3.1/InternTask.csproj.CoreCompileInputs.cache
+/home/frotos/Documents/Projects/InternTask/obj/Debug/netcoreapp3.1/InternTask.dll
+/home/frotos/Documents/Projects/InternTask/obj/Debug/netcoreapp3.1/InternTask.pdb
+/home/frotos/Documents/Projects/InternTask/obj/Debug/netcoreapp3.1/InternTask.genruntimeconfig.cache
+/home/frotos/Documents/Projects/InternTask/obj/Debug/netcoreapp3.1/InternTask.csproj.CopyComplete
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/BalanceVerificatorLib.dll
+/home/frotos/Documents/Projects/InternTask/bin/Debug/netcoreapp3.1/BalanceVerificatorLib.pdb
