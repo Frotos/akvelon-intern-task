@@ -51,7 +51,7 @@ namespace BalanceVerificatorLib.Tests {
     public void Verify_NotBalanced_8() {
       // arrange
       string value = "[()]{}{[[()()]()}";
-      int expected = 9;
+      int expected = 8;
         
       // act
       BalanceVerificator verificator = new BalanceVerificator();
