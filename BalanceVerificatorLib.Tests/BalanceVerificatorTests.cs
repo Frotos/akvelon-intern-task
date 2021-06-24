@@ -80,6 +80,7 @@ namespace BalanceVerificatorLib.Tests {
     public void Verify_UnsupportedSymbol_Exception() {
       // arrange
       string value = "()[(){S}]";
+      
       // act
       BalanceVerificator verificator = new BalanceVerificator();
       int actual = verificator.Verify(value);

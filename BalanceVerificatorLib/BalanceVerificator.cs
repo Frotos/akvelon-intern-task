@@ -24,6 +24,7 @@ namespace BalanceVerificatorLib {
         throw new ArgumentException("IllegalArgumentException");
       }
         
+      // List with processed brackets and their position in the input string.
       List<KeyValuePair<char, int>> processedBrackets = new List<KeyValuePair<char, int>>();
       for (int i = 0; i < value.Length; i++) {
         // If list is empty, adds first character.
@@ -42,7 +43,7 @@ namespace BalanceVerificatorLib {
           processedBrackets.Add(new KeyValuePair<char, int>(value[i], i));
         }
       }
-      // Returns position of unpaired bracket or -1, if input string is balanced.
+      // Returns position of first unpaired bracket or -1, if input string is balanced.
       if (processedBrackets.Count > 0) {
         Console.WriteLine("NOT BALANCED");
         return processedBrackets[processedBrackets.Count - 1].Value + 1;
